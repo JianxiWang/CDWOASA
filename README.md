@@ -1,4 +1,4 @@
-# CDWOASA
+# This is the code of cross-Scene hyperspectral feature selection via hybrid whale optimization algorithm with simulated annealing
 data preparation:
 make DataCube.mat:
  - DataCube1: source scene DataCube
